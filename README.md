@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/LeeGunhooo" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF3366?style=for-the-badge&logo=Aer Lingus&logoColor=000000"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGunhooo&show_icons=true&theme=radical)
