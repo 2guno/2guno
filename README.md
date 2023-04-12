@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/LeeGunhooo" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF3366?style=social&logo=Aer Lingus&logoColor=000000"/></a> <a href="https://www.instagram.com/_gun_5_/" target="_blank"><img src="https://img.shields.io/badge/INSTA-FF3366?style=social&logo=Instagram&logoColor=4EE3C2"/></a>
+<a href="https://github.com/LeeGunhooo" target="_blank"><img src="https://img.shields.io/badge/GIT-FF3366?style=social&logo=Aer Lingus&logoColor=000000"/></a> <a href="https://www.instagram.com/_gun_5_/" target="_blank"><img src="https://img.shields.io/badge/INSTA-FF3366?style=social&logo=Instagram&logoColor=4EE3C2"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGunhooo&show_icons=true&theme=radical)
